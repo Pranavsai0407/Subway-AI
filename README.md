@@ -4,7 +4,7 @@
 
 For this project, I made use of a supervised machine learning approach. I provided the ground truth data by playing the game and saving images with the corresponding action that was taken during the respective frame (jump, roll, left, right, noop) and in order for the AI to best imitate my playing style I used a convolutional neural network (CNN) with several layers (convolution, average pooling, dense layer, dropout, output), which gave me a good accuracy of 85% for it's predictions. After augmenting the data (mirroring, which resulted in a dataset twice as big) the model seemed to give even more robust results, when letting it play the game. Ultimately the model managed to finish runs of over a minute regularly and it safely handles the usual obstacles seen in the game. Moreover, the AI - with it's unconvential behavior - discovered a game-changing glitch.
 
-More on all this can be seen in my [video](https://youtu.be/ZVSmPikcIP4) on YouTube.
+
 
 [![new_thumb](https://user-images.githubusercontent.com/64498892/139440409-d6414a6e-2294-485e-bc36-b63ed623c8c2.png)](https://youtu.be/ZVSmPikcIP4)
 
