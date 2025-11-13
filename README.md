@@ -6,7 +6,7 @@ For this project, we made use of a supervised machine learning approach. we prov
 
 
 
-[![new_thumb](https://user-images.githubusercontent.com/64498892/139440409-d6414a6e-2294-485e-bc36-b63ed623c8c2.png)](https://youtu.be/ZVSmPikcIP4)
+
 
 ## Description/Usage
 
